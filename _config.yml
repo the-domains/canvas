@@ -1,4 +1,3 @@
-layout_spectrum: 0.9287423919886351
 typography_spectrum: 0.2402869591023773
 color:
   brandStrength: 0.5066500559914857
@@ -11,8 +10,10 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.9287423919886351
 name: Canvas
 navigation:
   - name: About
     url: 'http://www.canvas-salon.com/#!about-us/cjg9'
     type: external
+description: 'professionals, trained and experienced to give you'
