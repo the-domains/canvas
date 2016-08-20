@@ -1,0 +1,14 @@
+layout_spectrum: 0.9287423919886351
+typography_spectrum: 0.2402869591023773
+color:
+  brandStrength: 0.5066500559914857
+  lightness: 0.7415536721237004
+  saturation: 0.22512877476401627
+  rhythmicContrast: 0.26498730503953993
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: Canvas
