@@ -10,11 +10,22 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+opengraph:
+  appId: 'https://www.facebook.com/saloncanvas/?fref=ts'
+  type: Page
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/18777c49-f08e-46e4-847b-1d9b5031e293.png
 layout_spectrum: 0.9287423919886351
-name: Canvas
+author:
+  name: Jason Archuleta
+  email: jason@canvas-salon.com
+  url: 'http://canvas-salon.com'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/afa8ae6b-9e7f-43bd-94cc-03c487217d1c.png
+name: Canvas Salon
 navigation:
   - name: About
     url: 'http://www.canvas-salon.com/#!about-us/cjg9'
     type: external
-title: Canvas Salon
+title: 'professionals, trained and experienced to give you the look you desire.'
 description: 'professionals, trained and experienced to give you'
