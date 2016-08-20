@@ -6,9 +6,13 @@ color:
   saturation: 0.22512877476401627
   rhythmicContrast: 0.26498730503953993
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Canvas
+navigation:
+  - name: About
+    url: 'http://www.canvas-salon.com/#!about-us/cjg9'
+    type: external
