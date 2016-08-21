@@ -1,31 +1,46 @@
-typography_spectrum: 0.2402869591023773
+title: 'professionals, trained and experienced to give you the look you desire.'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: 'professionals, trained and experienced to give you'
 color:
-  brandStrength: 0.5066500559914857
-  lightness: 0.7415536721237004
-  saturation: 0.22512877476401627
-  rhythmicContrast: 0.26498730503953993
+  saturation: 0.155914
+  brandStrength: 0.5197133
+  lightness: 0.3261649
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#FFFFFF'
+    - '#000000'
+    - '#BDBDBD'
+    - '#2F2F2F'
+    - '#4F4F4F'
+  rhythmicContrast: 0.3172043
+navigation:
+  - name: About
+    url: 'http://www.canvas-salon.com/#!about-us/cjg9'
+    type: external
+  - name: Services
+    url: 'http://www.canvas-salon.com/#!services/cee5'
+    type: external
+name: Canvas Salon
+author:
+  name: Jason Archuleta
+  email: jason@canvas-salon.com
+  url: 'http://canvas-salon.com'
 opengraph:
   appId: 'https://www.facebook.com/saloncanvas/?fref=ts'
   type: Page
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/18777c49-f08e-46e4-847b-1d9b5031e293.png
-layout_spectrum: 0.9287423919886351
-author:
-  name: Jason Archuleta
-  email: jason@canvas-salon.com
-  url: 'http://canvas-salon.com'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/afa8ae6b-9e7f-43bd-94cc-03c487217d1c.png
-name: Canvas Salon
-navigation:
-  - name: Services
-    url: 'http://www.canvas-salon.com/#!services/cee5'
-    type: external
-title: 'professionals, trained and experienced to give you the look you desire.'
-description: 'professionals, trained and experienced to give you'
+typography_spectrum: 0.5376344
+layout_spectrum: 1
