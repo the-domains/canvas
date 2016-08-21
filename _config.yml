@@ -27,5 +27,8 @@ navigation:
   - name: About
     url: 'http://www.canvas-salon.com/#!about-us/cjg9'
     type: external
+  - name: Services
+    url: 'http://www.canvas-salon.com/#!services/cee5'
+    type: external
 title: 'professionals, trained and experienced to give you the look you desire.'
 description: 'professionals, trained and experienced to give you'
